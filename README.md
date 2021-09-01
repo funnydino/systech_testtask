@@ -2,5 +2,5 @@
 <p>Тестовое задание, выполненное для компании &quot;Системные технологии&quot;.</p>
 <p>Для получения массива объектов из базы данный SQLite была написана следующая команда:</p>
 <p>Вывод в формат JSON:</p>
-<code>.mode json</code>
-<code>.once db.json</code>
+<p><code>.mode json</code></p>
+<p><code>.once db.json</code></p>
