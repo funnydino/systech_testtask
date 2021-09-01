@@ -15,3 +15,4 @@ WHERE docs.removed = 0 AND docTypes.removed = 0
 ORDER BY docs.date;
 </code>
 </pre>
+<p>Готовый код страницы доступен в ветке <code>gh-pages</code></p>
